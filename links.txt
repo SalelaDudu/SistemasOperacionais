@@ -1,0 +1,7 @@
+Github de um SO: https://github.com/davidcallanan/os-series/tree/ep1
+Vídeo aula (inglês) como fazer um SO:  https://www.youtube.com/watch?v=FkrpUaGThTQ
+Fórum criação de SO: https://wiki.osdev.org/Main_Page
+Wiki Informações de ponteiro, memória, x86 arquitetura: https://en.wikipedia.org/wiki/X86_calling_conventions#System_V_AMD64_ABI
+Criando kernel em C: http://www.osdever.net/bkerndev/Docs/creatingmain.htm
+
+github de um gerenciador de processos explicado em pt-br: https://github.com/senhorinha/GerenciadorDeProcessos
