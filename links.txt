@@ -5,3 +5,5 @@ Wiki Informações de ponteiro, memória, x86 arquitetura: https://en.wikipedia.
 Criando kernel em C: http://www.osdever.net/bkerndev/Docs/creatingmain.htm
 
 github de um gerenciador de processos explicado em pt-br: https://github.com/senhorinha/GerenciadorDeProcessos
+
+Notion: https://www.notion.so/SistemasOperacionais-c6b199835dcb4859b87df5e1761d57ef?pvs=4
